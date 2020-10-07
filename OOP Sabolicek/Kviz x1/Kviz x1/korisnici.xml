@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <korisnici>
+      <korisnik id="1" autorizacija="igrac" ime="Jakov" prezime="Sabolicek" godinaRodenja="1999" korisnickoIme="jsabo" korisnickaLozinka="test111"></korisnik>
+      <korisnik id="2" autorizacija="admin" ime="Filip" prezime="Kecilobas" godinaRodenja="1998" korisnickoIme="fkeci" korisnickaLozinka="test112"></korisnik>
+      <korisnik id="3" autorizacija="igrac" ime="Marko" prezime="Maki" godinaRodenja="1999" korisnickoIme="mmaki" korisnickaLozinka="test113"></korisnik>
+      <korisnik id="4" autorizacija="igrac" ime="Ivan" prezime="Martinovic" godinaRodenja="1999" korisnickoIme="imarti" korisnickaLozinka="test114"></korisnik>
+      <korisnik id="5" autorizacija="igrac" ime="Josip" prezime="Martic" godinaRodenja="1998" korisnickoIme="jmarti" korisnickaLozinka="test115"></korisnik>
+      <korisnik id="6" autorizacija="igrac" ime="Mitar" prezime="Matic" godinaRodenja="1999" korisnickoIme="mmati" korisnickaLozinka="test116"></korisnik>
+      <korisnik id="7" autorizacija="igrac" ime="Mirko" prezime="Katekovic" godinaRodenja="1997" korisnickoIme="mkate" korisnickaLozinka="test117"></korisnik>
+      <korisnik id="8" autorizacija="igrac" ime="Matija" prezime="Karamarko" godinaRodenja="1999" korisnickoIme="mkara" korisnickaLozinka="test118"></korisnik>
+      <korisnik id="9" autorizacija="igrac" ime="Mihael" prezime="Sabolic" godinaRodenja="1997" korisnickoIme="msabo" korisnickaLozinka="test119"></korisnik>
+      <korisnik id="10" autorizacija="igrac" ime="Luka" prezime="Mitric" godinaRodenja="1994" korisnickoIme="lmitri" korisnickaLozinka="test120"></korisnik>
+      <korisnik id="11" autorizacija="igrac" ime="Lovro" prezime="Lukic" godinaRodenja="1999" korisnickoIme="lluki" korisnickaLozinka="test121"></korisnik>
+      <korisnik id="12" autorizacija="igrac" ime="Martin" prezime="Josipovic" godinaRodenja="1997" korisnickoIme="mjosi" korisnickaLozinka="test122"></korisnik>
+      <korisnik id="13" autorizacija="igrac" ime="Jozo" prezime="Martinovic" godinaRodenja="1994" korisnickoIme="jmarti" korisnickaLozinka="test123"></korisnik>
+      
+    </korisnici>
+</data>

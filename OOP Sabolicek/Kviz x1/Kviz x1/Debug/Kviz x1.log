@@ -1,0 +1,18 @@
+﻿  Kviz x1.cpp
+  ProjectManagementSystem.cpp
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(146): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(159): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(237): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(422): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(429): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(430): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(447): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(463): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(461): warning C4101: 'toc': unreferenced local variable
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(506): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(508): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(533): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(565): warning C4018: '<': signed/unsigned mismatch
+e:\kviz x1\kviz x1\projectmanagementsystem.cpp(567): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Kviz x1.vcxproj -> E:\Kviz x1\Debug\Kviz x1.exe

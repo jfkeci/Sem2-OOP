@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <pitanja>
+        <pitanje idPitanja="1" pitanje="Koliko ima kontinenata na planetu zemlji?"/>
+        <pitanje idPitanja="2" pitanje="Koliko nogu imaju pauci?"/>
+        <pitanje idPitanja="3" pitanje="Jodlanje je poseban nacin..."/>
+        <pitanje idPitanja="4" pitanje="Koji je 5. planet od Sunca?"/>
+        <pitanje idPitanja="5" pitanje="Kuhinjska posuda s dugackom drskom u koju cete ispeci hemendeks je..."/>
+        <pitanje idPitanja="6" pitanje="Tko je Cervantesov bistri vitez od Manche?"/>
+        <pitanje idPitanja="7" pitanje="U izreci bolje vrabac u ruci nego...?"/>
+        <pitanje idPitanja="8" pitanje="Koji je razlomak najveci?"/>
+        <pitanje idPitanja="9" pitanje="Koje se slovo u UNICEF-u odnosi na djecu?"/>
+        <pitanje idPitanja="10" pitanje="Koliko zica imaju gusle?"/>
+        <pitanje idPitanja="11" pitanje="Tko je celav u naslovu Ionescove drame?"/>
+        <pitanje idPitanja="12" pitanje="Bogati opus Honorea de Balzaca poznat je pod nazivom..."/>
+        <pitanje idPitanja="13" pitanje="Danasnji su Afrikaneri potomci..."/>
+        <pitanje idPitanja="14" pitanje="U rimskim amfiteatrima nisu se odrzavale..."/>
+        <pitanje idPitanja="15" pitanje="Kako se zove najveca stranica pravokutnog trokuta?"/>
+        <pitanje idPitanja="16" pitanje="Umjetnicko nadahnuce jos nazivamo..."/>
+        <pitanje idPitanja="17" pitanje="Na kojem se poluotoku nalazi Svedska?"/>
+        <pitanje idPitanja="18" pitanje="Koliko zena ima monogamist?"/>
+        <pitanje idPitanja="19" pitanje="Što je po narodnosti Mika Hakinnen?"/>
+        <pitanje idPitanja="20" pitanje="Koliko godina traje mandat pretsjednika?"/>
+        <pitanje idPitanja="21" pitanje="Koji je od navedenih naziv pustinje, a ne drzave?"/>
+        <pitanje idPitanja="22" pitanje="Kojoj vrsti pripada rjec kutomjer?"/>
+    </pitanja>
+    <odgovori>
+        <odgovor idOdgovora="1" tocnost="1" odgovor="7"/>
+        <odgovor idOdgovora="1" tocnost="0" odgovor="2"/>
+        <odgovor idOdgovora="1" tocnost="0" odgovor="6"/>
+        <odgovor idOdgovora="1" tocnost="0" odgovor="10"/>
+        <odgovor idOdgovora="2" tocnost="1" odgovor="8"/>
+        <odgovor idOdgovora="2" tocnost="0" odgovor="10"/>
+        <odgovor idOdgovora="2" tocnost="0" odgovor="6"/>
+        <odgovor idOdgovora="2" tocnost="0" odgovor="4"/>
+        <odgovor idOdgovora="3" tocnost="1" odgovor="pjevanja"/>
+        <odgovor idOdgovora="3" tocnost="0" odgovor="marsiranja"/>
+        <odgovor idOdgovora="3" tocnost="0" odgovor="plesanja"/>
+        <odgovor idOdgovora="3" tocnost="0" odgovor="kuglanja"/>
+        <odgovor idOdgovora="4" tocnost="1" odgovor="Jupiter"/>
+        <odgovor idOdgovora="4" tocnost="0" odgovor="Zemlja"/>
+        <odgovor idOdgovora="4" tocnost="0" odgovor="Mars"/>
+        <odgovor idOdgovora="4" tocnost="0" odgovor="Saturn"/>
+        <odgovor idOdgovora="5" tocnost="1" odgovor="tava"/>
+        <odgovor idOdgovora="5" tocnost="0" odgovor="pladanj"/>
+        <odgovor idOdgovora="5" tocnost="0" odgovor="lonac"/>
+        <odgovor idOdgovora="5" tocnost="0" odgovor="peka"/>
+        <odgovor idOdgovora="6" tocnost="1" odgovor="Don Quijote"/>
+        <odgovor idOdgovora="6" tocnost="0" odgovor="Don Juan"/>
+        <odgovor idOdgovora="6" tocnost="0" odgovor="El Cid"/>
+        <odgovor idOdgovora="6" tocnost="0" odgovor="Hernan Cortes"/>
+        <odgovor idOdgovora="7" tocnost="1" odgovor="golub na grani"/>
+        <odgovor idOdgovora="7" tocnost="0" odgovor="seva na zici"/>
+        <odgovor idOdgovora="7" tocnost="0" odgovor="kos na glavi"/>
+        <odgovor idOdgovora="7" tocnost="0" odgovor="lasta na nebu"/>
+        <odgovor idOdgovora="8" tocnost="1" odgovor="1/2"/>
+        <odgovor idOdgovora="8" tocnost="0" odgovor="1/3"/>
+        <odgovor idOdgovora="8" tocnost="0" odgovor="1/4"/>
+        <odgovor idOdgovora="8" tocnost="0" odgovor="1/5"/>
+        <odgovor idOdgovora="9" tocnost="1" odgovor="C"/>
+        <odgovor idOdgovora="9" tocnost="0" odgovor="I"/>
+        <odgovor idOdgovora="9" tocnost="0" odgovor="E"/>
+        <odgovor idOdgovora="9" tocnost="0" odgovor="F"/>
+        <odgovor idOdgovora="10" tocnost="1" odgovor="jednu"/>
+        <odgovor idOdgovora="10" tocnost="0" odgovor="tri"/>
+        <odgovor idOdgovora="10" tocnost="0" odgovor="cetiri"/>
+        <odgovor idOdgovora="10" tocnost="0" odgovor="sest"/>
+        <odgovor idOdgovora="11" tocnost="1" odgovor="pjevacica"/>
+        <odgovor idOdgovora="11" tocnost="0" odgovor="vatrogasac"/>
+        <odgovor idOdgovora="11" tocnost="0" odgovor="gradonacelnik"/>
+        <odgovor idOdgovora="11" tocnost="0" odgovor="govornik"/>
+        <odgovor idOdgovora="12" tocnost="1" odgovor="Ljudska komedija"/>
+        <odgovor idOdgovora="12" tocnost="0" odgovor="Bozanstvena komedija"/>
+        <odgovor idOdgovora="12" tocnost="0" odgovor="Zivotna komedija"/>
+        <odgovor idOdgovora="12" tocnost="0" odgovor="Vrazja komedija"/>
+        <odgovor idOdgovora="13" tocnost="1" odgovor="Bura"/>
+        <odgovor idOdgovora="13" tocnost="0" odgovor="Berbera"/>
+        <odgovor idOdgovora="13" tocnost="0" odgovor="Druza"/>
+        <odgovor idOdgovora="13" tocnost="0" odgovor="Zulua"/>
+        <odgovor idOdgovora="14" tocnost="1" odgovor="vjerske svecanosti"/>
+        <odgovor idOdgovora="14" tocnost="0" odgovor="borbe gladijatora"/>
+        <odgovor idOdgovora="14" tocnost="0" odgovor="pomorske bitke"/>
+        <odgovor idOdgovora="14" tocnost="0" odgovor="borbe sa zivotinjama"/>
+        <odgovor idOdgovora="15" tocnost="1" odgovor="hipotenuza"/>
+        <odgovor idOdgovora="15" tocnost="0" odgovor="tangenta"/>
+        <odgovor idOdgovora="15" tocnost="0" odgovor="asimptota"/>
+        <odgovor idOdgovora="15" tocnost="0" odgovor="kateta"/>
+        <odgovor idOdgovora="16" tocnost="1" odgovor="inspiracija"/>
+        <odgovor idOdgovora="16" tocnost="0" odgovor="melioracija"/>
+        <odgovor idOdgovora="16" tocnost="0" odgovor="inovacija"/>
+        <odgovor idOdgovora="16" tocnost="0" odgovor="konspiracija"/>
+        <odgovor idOdgovora="17" tocnost="1" odgovor="Skandinavskom"/>
+        <odgovor idOdgovora="17" tocnost="0" odgovor="Apeninskom"/>
+        <odgovor idOdgovora="17" tocnost="0" odgovor="Balkanskom"/>
+        <odgovor idOdgovora="17" tocnost="0" odgovor="Arapskom"/>
+        <odgovor idOdgovora="18" tocnost="1" odgovor="1"/>
+        <odgovor idOdgovora="18" tocnost="0" odgovor="2"/>
+        <odgovor idOdgovora="18" tocnost="0" odgovor="3"/>
+        <odgovor idOdgovora="18" tocnost="0" odgovor="4"/>
+        <odgovor idOdgovora="19" tocnost="1" odgovor="Finac"/>
+        <odgovor idOdgovora="19" tocnost="0" odgovor="Skot"/>
+        <odgovor idOdgovora="19" tocnost="0" odgovor="Poljak"/>
+        <odgovor idOdgovora="19" tocnost="0" odgovor="Danac"/>
+        <odgovor idOdgovora="20" tocnost="1" odgovor="5"/>
+        <odgovor idOdgovora="20" tocnost="0" odgovor="3"/>
+        <odgovor idOdgovora="20" tocnost="0" odgovor="6"/>
+        <odgovor idOdgovora="20" tocnost="0" odgovor="4"/>
+        <odgovor idOdgovora="21" tocnost="1" odgovor="Namib"/>
+        <odgovor idOdgovora="21" tocnost="0" odgovor="Gabon"/>
+        <odgovor idOdgovora="21" tocnost="0" odgovor="Niger"/>
+        <odgovor idOdgovora="21" tocnost="0" odgovor="Mali"/>
+        <odgovor idOdgovora="22" tocnost="1" odgovor="Imenica"/>
+        <odgovor idOdgovora="22" tocnost="0" odgovor="Glagol"/>
+        <odgovor idOdgovora="22" tocnost="0" odgovor="Pridjev"/>
+        <odgovor idOdgovora="22" tocnost="0" odgovor="Prijedlog"/>
+    </odgovori>
+</data>
